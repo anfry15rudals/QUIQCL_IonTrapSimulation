@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "\\\\172.22.22.101\\qc_user\\Experiment_Scripts\\GUI_Control_Program\\DataReader"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "c:\\Users\\user\\anaconda3\\python.exe"
+	}
+}
